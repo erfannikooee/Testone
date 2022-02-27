@@ -33,6 +33,7 @@ A TV program management system
 این پروژه ی  شی  گرایی من در درس برنامه نویسی پیشرفته در دانشگاه شهید بهشتی در سال ۱۳۹۹ بود.
 
 یک سیستم مدیریت برنامه های تلویزیونی
+https://www.aparat.com/v/3waWq
  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
