@@ -49,6 +49,7 @@ I have implemented a TV program management system using object-oriented and poly
  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
 ### Built With
 * [Java](https://java.com)
 * [JavaFX](https://javafx.com)
@@ -56,6 +57,11 @@ I have implemented a TV program management system using object-oriented and poly
 ### Softwares
 * [Intellij](https://www.jetbrains.com/idea/)
 * [Scenebuilder](https://gluonhq.com/products/scene-builder/)
+
+![proj_UML](https://user-images.githubusercontent.com/76695336/156570680-28195e2a-3721-412c-8c4e-4fe514156138.png)
+<div align="center">
+    <h3>Project UML</h3>
+</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -80,6 +86,8 @@ In this program you can make 4 types of accounts:
 **Manager(For each Channel):** It can add or delete programs from It's channel or change its specifications.
 
 **Ads Company:** It has a financial account with the organization, can request a broadcast of an advertisement and can recharge it's account.
+
+Use these accounts and their authorities and abilities to create your own television system.
 
 You can use this project to improve your perception of OOP so browse through all of the files and do whatever you want to see how everything works!
 
