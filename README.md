@@ -31,11 +31,6 @@
     </li>
     <li><a href="#compile-and-run">Compile and Run</a></li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -43,11 +38,12 @@
 ## About the project
 This was my object-oriented project for Advanced Programming Course at SBU in 2020,and it might help you in this field.
 
-A TV program management system
+I have implemented a TV program management system using object-oriented and polymorphism.
+
 
 این پروژه‌ی شی‌گرایی من در درس برنامه نویسی پیشرفته در دانشگاه شهید بهشتی در سال ۱۳۹۹ بود و ممکن است در این زمینه به شما کمک کند. 
 
-یک سیستم مدیریت برنامه های تلویزیونی
+با استنفاده از شبی گرایی و چند ریختی، یک سیستم مدیریت برنامه های تلویزیونی پیاده سازی کرده ام.
 
 لینک ویدیوی آزمایش پروژه در آپارات : https://www.aparat.com/v/3waWq
  
@@ -77,10 +73,13 @@ After that, a small window will show up with  gray background and two text field
 ## Usage
 In this program you can make 4 types of accounts:
 
-Spectator: It can choose a channel and see the list of its programs or search program's name and rate it.
-* General Manager: It can set channels and managers for each channels , set a formula for calculating cost of each advertisments and have all of managers autorities.
-* Manager(For each Channel) : It can add or delete programs from It's channel or change its specifications.
-* Ads Company : It has a financial account with the organization, can request a broadcast of an advertisement and can recharge it's account.
+**Spectator:** It can choose a channel and see the list of its programs or search program's name and rate it.
+
+**General Manager:** It can set channels and managers for each channels , set a formula for calculating cost of each advertisments and have all of managers autorities.
+
+**Manager(For each Channel):** It can add or delete programs from It's channel or change its specifications.
+
+**Ads Company:** It has a financial account with the organization, can request a broadcast of an advertisement and can recharge it's account.
 
 You can use this project to improve your perception of OOP so browse through all of the files and do whatever you want to see how everything works!
 
